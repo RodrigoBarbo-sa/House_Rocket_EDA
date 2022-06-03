@@ -144,11 +144,11 @@ O lucro de: R$ 64.607.095,80
 
 O objetivo do projeto foi alcançado, dado que os produtos de dados propostos foram gerados com sucesso (Dashboard e Planilha). Os times já podem utilizar a solução para a tomada de decisão na House Rocket.
 
-- Abaixo, segue uma demonstração do dashboard produzido. Caso queira acessá-lo, basta clicar no link: [Heroku_App] (https://analytics-h.herokuapp.com/).
+- Abaixo, segue uma demonstração do dashboard produzido. Caso queira acessá-lo, basta clicar no link: [Heroku_App](https://analytics-h.herokuapp.com/).
 
 <img src="/images/House_rocket.gif" align="center" height="600" class="center"/>
 
-- A planilha fica disponível no repositório do projeto, e caso queira acessá-la: basta clicar no link: [Planilha] ().
+- A planilha fica disponível no repositório do projeto, e caso queira acessá-la: basta clicar no link: [Planilha](https://github.com/RodrigoBarbo-sa/House_Rocket_EDA/blob/main/data/kc_house_data.csv).
 
 
 
@@ -168,5 +168,5 @@ estações que os imóveis estão mais valorizados.
 
 * Os significados das variáveis foram obtidos no [Geocenter](https://geodacenter.github.io/data-and-lab/KingCounty-HouseSales2015/).
 
-* A imagem de capa é de uso livre e foi obtida no [Unsplash] (https://unsplash.com/).
+* A imagem de capa é de uso livre e foi obtida no [Unsplash](https://unsplash.com/).
 
