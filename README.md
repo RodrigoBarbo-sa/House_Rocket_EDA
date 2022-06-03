@@ -1,14 +1,10 @@
 # House Rocket
 
-<img src="images/real_state.jpg" width=100% height=70%/>
-
-Disclaimer: Este é um projeto fictício. A empresa, o contexto e as perguntas de negócios não são reais e não têm objetivo comercial. O Dataset público está disponível no [Kaggle](https://www.kaggle.com/harlfoxem/housesalesprediction).
-
-Este projeto é um desafio da [Comunidade DS](https://www.comunidadedatascience.com/).
+<img src="images/real_state.jpg" width=100% height=50%/>
 
 ## 1. Problema de negócios
 ### 1.1 Problema
-House Rocket é uma empresa de tecnologia do setor imobiliário que utiliza uma plataforma digital para promover a compra e venda de propriedades. Ela trabalha com um portfólio próprio e também promove a venda de imóveis de terceiros, em um modelo de negócio de marketplace.
+House Rocket é uma empresa (fictícia) de tecnologia do setor imobiliário que utiliza uma plataforma digital para promover a compra e venda de propriedades. Ela trabalha com um portfólio próprio e também promove a venda de imóveis de terceiros, em um modelo de negócio de marketplace.
 
 Diante da grande competitividade do setor, o CEO da empresa gostaria que seu time comercial identificasse as melhores oportunidades de casas abaixo do preço de mercado e com um bom potencial de valor de venda. Dessa forma, a empresa poderá expandir seu portfólio de imóveis, além de potencializar o seu lucro quando concretizada a venda das propriedades. 
 
