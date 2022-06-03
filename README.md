@@ -1,4 +1,4 @@
-# House Rocket
+# House Rocket Exploratory Data Analysis (EDA)
 
 <img src="images/real_state.jpg" width=100% height=50%/>
 
